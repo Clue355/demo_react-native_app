@@ -8,9 +8,14 @@ Simple React Native application to learn the framework
 
 ## Features
 
--   Create a list of todos
+-   User can create any amount of todos
 -   Alert for when you try to add a todo, but there's nothing in the input
 -   Clear the list of todos
+-   Check any todo in the list individually
+
+## Packages
+
+`expo-checkbox`: helped create a checkbox that was deprecated in the core React Native framework
 
 ## Demo
 
